@@ -1,0 +1,3 @@
+[submodule "src/followProject1LibCommon"]
+	path = src/followProject1LibCommon
+	url = https://github.com/hrjAccount/followProject1LibCommon.git
